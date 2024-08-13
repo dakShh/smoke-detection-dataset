@@ -19,7 +19,7 @@ About the dataset Collection of training data is performed with the help of IOT 
 - 14- CNT : Simple Count.
 - 15- Fire Alarm : If fire was present then value is 1 else it is 0.
 
-**Getting Started:**
+### Getting Started
 * **Prerequisites:**
   * Python 3.6+
   * numpy, pandas, scikit-learn, matplotlib
@@ -37,4 +37,7 @@ About the dataset Collection of training data is performed with the help of IOT 
   ```bash
   pip install -r requirements.txt
   ```
+### Acknowledgement / Credits
+The data is collected by Stefan Blattmann in his project Real-time Smoke Detection with AI-based Sensor Fusion.
+Author's GitHub : [Blatts01](https://github.com/Blatts01)
   
